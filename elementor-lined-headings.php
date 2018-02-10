@@ -1,18 +1,17 @@
 <?php
 
 /**
- * Plugin Name: Elementor Custom Elements
- * Description: Plugin t add custom element to Elementor
- * Plugin URI: https://foreigncodes.com/how-to-easily-create-custom-elementor-widget/
+ * Plugin Name: Elementor Lined Headings
+ * Description: Adds a Lined Heading widget to Elementor, based on https://foreigncodes.com/how-to-easily-create-custom-elementor-widget/
+ * Plugin URI: https://github.com/joffff/elementor-custom-element
  * Version: 0.0.1
- * Author: Neon Emmanuel
- * Author URI: https://foreigncodes.net
+ * Author: Jonathan Frascella
+ * Author URI: https://gattonero.co.uk
  * Text Domain: elementor-lined-heading
  */
 if ( ! defined( 'ABSPATH' ) ) exit;
 
 // This file is pretty much a boilerplate WordPress plugin.
-// It does very little except including my-widget.php
 
 class ElementorCustomElement {
 
