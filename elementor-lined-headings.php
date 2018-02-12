@@ -4,7 +4,7 @@
  * Plugin Name: Elementor Lined Headings
  * Description: Adds a Lined Heading widget to Elementor, based on https://foreigncodes.com/how-to-easily-create-custom-elementor-widget/
  * Plugin URI: https://github.com/joffff/elementor-custom-element
- * Version: 0.0.1
+ * Version: 0.0.2
  * Author: Jonathan Frascella
  * Author URI: https://gattonero.co.uk
  * Text Domain: elementor-lined-heading
